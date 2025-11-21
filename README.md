@@ -51,24 +51,9 @@ Sl .no	Apparatus	Range	Type	Quantity
 
 ### Tabulation for Open Circuit Test
 
-![WhatsApp Image 2025-09-25 at 05 32 03_337e90bd](https://github.com/user-attachments/assets/c79ad59c-5656-4709-a905-3a84f6b371cd)
-
-![WhatsApp Image 2025-09-25 at 05 32 03_32c5616a](https://github.com/user-attachments/assets/2e466a69-820a-46d8-abc7-557e691400d2)
-
-![WhatsApp Image 2025-09-25 at 05 32 04_18a33fa4](https://github.com/user-attachments/assets/b0b3380d-33d2-4c90-ba75-0b7ce677f274)
-
-![WhatsApp Image 2025-09-25 at 05 32 04_1e986062](https://github.com/user-attachments/assets/7bc23805-070c-4c3b-a5a5-bd116d931b5c)
-
-![WhatsApp Image 2025-09-25 at 05 32 04_fdee70c3](https://github.com/user-attachments/assets/9d4d394a-790a-4b00-addc-6e28af84d08e)
-
-![WhatsApp Image 2025-09-25 at 05 32 05_f389281c](https://github.com/user-attachments/assets/f4ba06e6-891c-409c-9c93-aedd0e61e43f)
-
-<img width="958" height="861" alt="image" src="https://github.com/user-attachments/assets/6c889ce7-d3e6-4c0a-9759-07a889d0a156" />
-
-<img width="882" height="782" alt="image" src="https://github.com/user-attachments/assets/a7c0888b-56cb-4694-81d1-00d6432a30e6" />
-
-
-
+<img width="370" height="252" alt="image" src="https://github.com/user-attachments/assets/a0d2f960-5635-4372-a61e-6d9f4c0dca68" />
+<img width="513" height="459" alt="image" src="https://github.com/user-attachments/assets/0db72c02-cacd-440c-a745-75f434f93aab" />
+<img width="504" height="552" alt="image" src="https://github.com/user-attachments/assets/9ef13dbd-4e62-482c-a10a-c049f917288a" />
 
 
  
