@@ -51,8 +51,10 @@ Sl .no	Apparatus	Range	Type	Quantity
 
 ### Tabulation for Open Circuit Test
 
-<img width="370" height="252" alt="image" src="https://github.com/user-attachments/assets/a0d2f960-5635-4372-a61e-6d9f4c0dca68" />
-<img width="513" height="459" alt="image" src="https://github.com/user-attachments/assets/0db72c02-cacd-440c-a745-75f434f93aab" />
+<img width="513" height="459" alt="image" src="https://github.com/user-attachments/assets/18017a21-4e77-4ab0-a77a-df7827abdfcd" />
+
+<img width="370" height="252" alt="image" src="https://github.com/user-attachments/assets/36002b66-bc9f-4bab-9c0f-e0a4dbe8aec5" />
+
 <img width="504" height="552" alt="image" src="https://github.com/user-attachments/assets/9ef13dbd-4e62-482c-a10a-c049f917288a" />
 
 
